@@ -1,0 +1,1 @@
+This application shows all the scholarships which has been provided by the government and private sectors. And it also help to check the student eligity according to their category "shows the scholarships".
