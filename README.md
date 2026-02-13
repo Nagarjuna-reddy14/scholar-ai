@@ -1,1 +1,10 @@
-This application shows all the scholarships which has been provided by the government and private sectors. And it also help to check the student, It checks their eligity according to their category "shows the scholarships".
+my-scholarship-app/
+├── src/
+│   ├── components/
+│   ├── data/
+│   ├── utils/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── package.json
+└── README.md
